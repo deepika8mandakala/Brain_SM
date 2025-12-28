@@ -61,7 +61,7 @@ These applications would focus on **insight generation and awareness**, not clin
 
 ## Technologies Used
 - **Python** — Core data processing and ML workflows  
-- **Machine Learning** — Behavioral pattern analysis  
+- **Natural Language Processing** — Behavioral pattern analysis  
 - **Hugging Face** — Experimentation with NLP and AI models  
 - **Kibana** — Data visualization and monitoring dashboards  
 - **PostgreSQL** — Structured data storage  
